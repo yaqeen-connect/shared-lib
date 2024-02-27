@@ -14,4 +14,6 @@ export const USER_MODULE_MESSAGE = {
   USER_REGISTRATION_FAILED: "user.registration.failed",
   INCORRECT_CREDENTIALS: "incorrect.credentials",
   PASSWORD_NOT_RESET: "password.not.reset",
+  USERNAME_NOT_GENERATED:
+    "unable.to.generate.a.unique.username.after.multiple.attempts",
 };
