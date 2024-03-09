@@ -18,4 +18,5 @@ export const USER_MODULE_MESSAGE = {
     "unable.to.generate.a.unique.username.after.multiple.attempts",
   GOOGLE_REGISTRATION_FAILED: "google.registration.failed",
   GOOGLE_LOGIN_FAILED: "google.login.failed",
+  GOOGLE_PROFILE_NOT_RETRIEVED: "google.profile.not.retrieved",
 };
