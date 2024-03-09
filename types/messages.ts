@@ -16,4 +16,6 @@ export const USER_MODULE_MESSAGE = {
   PASSWORD_NOT_RESET: "password.not.reset",
   USERNAME_NOT_GENERATED:
     "unable.to.generate.a.unique.username.after.multiple.attempts",
+  GOOGLE_REGISTRATION_FAILED: "google.registration.failed",
+  GOOGLE_LOGIN_FAILED: "google.login.failed",
 };
