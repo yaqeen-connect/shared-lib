@@ -11,4 +11,7 @@ export const USER_MODULE_ROUTES = {
   GENERATE_USERNAME: "generate-username",
   GOOGLE_LOGIN: "google-login",
   GOOGLE_REGISTER: "google-register",
+  UPDATE_USER_PROFILE_SETTINGS: "update-user-profile-settings",
+  UPDATE_USER_ACCOUNT_SECURITY_SETTINGS:
+    "update-user-account-security-settings",
 };
