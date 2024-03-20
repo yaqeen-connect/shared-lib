@@ -19,4 +19,5 @@ export const USER_MODULE_MESSAGE = {
   GOOGLE_REGISTRATION_FAILED: "google.registration.failed",
   GOOGLE_LOGIN_FAILED: "google.login.failed",
   GOOGLE_PROFILE_NOT_RETRIEVED: "google.profile.not.retrieved",
+  PROFILE_PICTURE_NOT_UPDATE: "profile.picture.not.updated",
 };

@@ -14,4 +14,6 @@ export const USER_MODULE_ROUTES = {
   UPDATE_USER_PROFILE_SETTINGS: "update-user-profile-settings",
   UPDATE_USER_ACCOUNT_SECURITY_SETTINGS:
     "update-user-account-security-settings",
+
+  UPDATE_USER_PROFILE_PICTURE: "update-user-profile-picture",
 };
