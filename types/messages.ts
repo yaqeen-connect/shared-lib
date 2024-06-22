@@ -20,4 +20,5 @@ export const USER_MODULE_MESSAGE = {
   GOOGLE_LOGIN_FAILED: "google.login.failed",
   GOOGLE_PROFILE_NOT_RETRIEVED: "google.profile.not.retrieved",
   PROFILE_PICTURE_NOT_UPDATED: "profile.picture.not.updated",
+  EMAIL_NOT_VERIFIED: "email.not.verified",
 };
