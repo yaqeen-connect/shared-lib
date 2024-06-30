@@ -20,3 +20,8 @@ export enum SUBSCRIPTION_PLAN {
   FREE = "free",
   PREMIUM = "premium",
 }
+
+export enum SUPPORTED_LANGUAGE {
+  FR = "fr",
+  EN = "en",
+}
