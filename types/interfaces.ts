@@ -3,7 +3,7 @@ export interface IPROFILE_PICTURE {
   url: string;
 }
 
-interface IAyah {
+export interface IAyah {
   number: number;
   text: string;
   numberInSurah: number;
@@ -15,7 +15,7 @@ interface IAyah {
   sajda: boolean;
 }
 
-interface ISurah {
+export interface ISurah {
   number: number;
   name: string;
   englishName: string;
