@@ -17,3 +17,9 @@ export const USER_MODULE_ROUTES = {
   UPDATE_USER_PROFILE_PICTURE: "update-user-profile-picture",
   REVERIFY_EMAIL: "reverify-email",
 };
+
+export const QURAN_MODULE_ROUTES = {
+  ROOT: "quran",
+  IMPORT_SURAHS_DOCUMENTS: "import-surahs-documents",
+  SEARCH: "search",
+};
