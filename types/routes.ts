@@ -22,4 +22,5 @@ export const QURAN_MODULE_ROUTES = {
   ROOT: "quran",
   IMPORT_SURAHS_DOCUMENTS: "import-surahs-documents",
   SEARCH: "search",
+  GET_ALL_SURAHS: "get-all-surahs",
 };
