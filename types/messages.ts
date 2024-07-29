@@ -22,3 +22,7 @@ export const USER_MODULE_MESSAGE = {
   PROFILE_PICTURE_NOT_UPDATED: "profile.picture.not.updated",
   EMAIL_NOT_VERIFIED: "email.not.verified",
 };
+
+export const QURAN_MODULE_MESSAGE = {
+  LOAD_SURAHS_AUDIO_ERROR: "load.surahs.audio.error",
+};
