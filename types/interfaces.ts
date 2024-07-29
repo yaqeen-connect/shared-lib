@@ -23,3 +23,17 @@ export interface ISurah {
   revelationType: string;
   ayahs: IAyah[];
 }
+
+export interface IEdition {
+  identifier: string;
+  language: string;
+  name: string;
+  englishName: string;
+  format: string;
+  type: string;
+}
+
+export interface IQuranData {
+  edition: IEdition;
+  surahs: ISurah[];
+}
