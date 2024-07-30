@@ -5,6 +5,8 @@ export interface IPROFILE_PICTURE {
 
 export interface IAyah {
   number: number;
+  audio: string | null;
+  audioSecondary: string[] | null;
   text: string;
   numberInSurah: number;
   juz: number;
