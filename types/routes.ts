@@ -16,6 +16,8 @@ export const USER_MODULE_ROUTES = {
     "update-user-account-security-settings",
   UPDATE_USER_PROFILE_PICTURE: "update-user-profile-picture",
   REVERIFY_EMAIL: "reverify-email",
+  SEND_OTP_CODE: "send-otp-code",
+  VERIFY_OTP_CODE: "verify-otp-code",
 };
 
 export const QURAN_MODULE_ROUTES = {

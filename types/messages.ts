@@ -21,6 +21,12 @@ export const USER_MODULE_MESSAGE = {
   GOOGLE_PROFILE_NOT_RETRIEVED: "google.profile.not.retrieved",
   PROFILE_PICTURE_NOT_UPDATED: "profile.picture.not.updated",
   EMAIL_NOT_VERIFIED: "email.not.verified",
+  OTP_CODE_NOT_SENT: "otp.code.not.sent",
+  OTP_CODE_SENDING_ERROR: "failed.to.create.otp",
+  OTP_CODE_NOT_FOUND: "code.not.found",
+  OTP_CODE_ALREADY_USED: "code.already.used",
+  OTP_CODE_EXPIRED: "code.expired",
+  OTP_CLEANUP_ERROR: "otp.cleanup.error",
 };
 
 export const QURAN_MODULE_MESSAGE = {
