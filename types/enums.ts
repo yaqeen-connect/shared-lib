@@ -25,3 +25,9 @@ export enum SUPPORTED_LANGUAGE {
   FR = "fr",
   EN = "en",
 }
+
+export enum OTP_TYPE {
+  SIGNUP = "signup",
+  PASSWORDRESET = "passwordReset",
+  EMAILUPDATE = "emailUpdate",
+}

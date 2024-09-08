@@ -18,6 +18,7 @@ export const USER_MODULE_ROUTES = {
   REVERIFY_EMAIL: "reverify-email",
   SEND_OTP_CODE: "send-otp-code",
   VERIFY_OTP_CODE: "verify-otp-code",
+  REGISTER_MOBILE: "register-mobile",
 };
 
 export const QURAN_MODULE_ROUTES = {
