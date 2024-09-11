@@ -27,6 +27,8 @@ export const USER_MODULE_MESSAGE = {
   OTP_CODE_ALREADY_USED: "code.already.used",
   OTP_CODE_EXPIRED: "code.expired",
   OTP_CLEANUP_ERROR: "otp.cleanup.error",
+  OLD_PASSWORD_REQUIRED: "old.password.required",
+  INVALID_OLD_PASSWORD: "invalid.old.password",
 };
 
 export const QURAN_MODULE_MESSAGE = {
