@@ -31,6 +31,13 @@ export const USER_MODULE_MESSAGE = {
   INVALID_OLD_PASSWORD: "invalid.old.password",
 };
 
+export const PRODUCT_MODULE_MESSAGE = {
+  PRODUCT_NOT_FOUND: "product.not.found",
+  PRODUCT_VARIANT_NOT_FOUND: "product.variant.not.found",
+  LIST_PRODUCTS_FAILED: "list.products.failed",
+  FETCH_PRODUCT_FAILED: "fetch.product.failed",
+}
+
 export const QURAN_MODULE_MESSAGE = {
   LOAD_SURAHS_AUDIO_ERROR: "load.surahs.audio.error",
 };

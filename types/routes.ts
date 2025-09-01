@@ -22,10 +22,9 @@ export const USER_MODULE_ROUTES = {
   RESET_PASSWORD_MOBILE: "reset-password-mobile",
 };
 
-export const QURAN_MODULE_ROUTES = {
-  ROOT: "quran",
-  IMPORT_SURAHS_DOCUMENTS: "import-surahs-documents",
-  SEARCH: "search",
-  GET_ALL_SURAHS: "get-all-surahs",
-  GET_SURAHS_AUDIO: "get-surahs-audio",
+export const PRODUCT_MODULE_ROUTES = {
+  ROOT: "products",
+  CREATE_PRODUCT: "create-product",
+  CREATE_PRODUCT_VARIANT: 'create-product-variant',
+  LIST_PRODUCTS: "list",
 };
