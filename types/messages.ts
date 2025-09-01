@@ -36,6 +36,8 @@ export const PRODUCT_MODULE_MESSAGE = {
   PRODUCT_VARIANT_NOT_FOUND: "product.variant.not.found",
   LIST_PRODUCTS_FAILED: "list.products.failed",
   FETCH_PRODUCT_FAILED: "fetch.product.failed",
+  PRODUCT_VARIANT_UPDATED: "product.variant.updated",
+  PRODUCT_VARIANT_DELETED: "product.variant.deleted"
 }
 
 export const QURAN_MODULE_MESSAGE = {
