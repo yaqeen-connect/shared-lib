@@ -3,6 +3,9 @@ export const GENERIC_MESSAGE = {
   INVALID_TOKEN: "invalid.token",
   RESOURCE_NOT_FOUND: "resource.not.found",
   RESOURCE_NOT_UPDATED: "resource.not.updated",
+  RESOURCE_UPDATED: "resource.updated",
+  RESOURCE_NOT_DELETED: "resource.not.deleted",
+  RESOURCE_DELETED: "resource.deleted",
   ACCESS_DENIED: "access.denied",
 };
 
@@ -32,12 +35,8 @@ export const USER_MODULE_MESSAGE = {
 };
 
 export const PRODUCT_MODULE_MESSAGE = {
-  PRODUCT_NOT_FOUND: "product.not.found",
-  PRODUCT_VARIANT_NOT_FOUND: "product.variant.not.found",
   LIST_PRODUCTS_FAILED: "list.products.failed",
   FETCH_PRODUCT_FAILED: "fetch.product.failed",
-  PRODUCT_VARIANT_UPDATED: "product.variant.updated",
-  PRODUCT_VARIANT_DELETED: "product.variant.deleted"
 }
 
 export const QURAN_MODULE_MESSAGE = {
