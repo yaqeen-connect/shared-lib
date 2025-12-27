@@ -20,11 +20,12 @@ export const USER_MODULE_ROUTES = {
   VERIFY_OTP_CODE: "verify-otp-code",
   REGISTER_MOBILE: "register-mobile",
   RESET_PASSWORD_MOBILE: "reset-password-mobile",
+  DELETE_USER_PROFILE: "delete-user-profile",
 };
 
 export const PRODUCT_MODULE_ROUTES = {
   ROOT: "products",
   CREATE_PRODUCT: "create-product",
-  CREATE_PRODUCT_VARIANT: 'create-product-variant',
+  CREATE_PRODUCT_VARIANT: "create-product-variant",
   LIST_PRODUCTS: "list",
 };
