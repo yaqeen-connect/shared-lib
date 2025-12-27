@@ -20,7 +20,7 @@ export const USER_MODULE_ROUTES = {
   VERIFY_OTP_CODE: "verify-otp-code",
   REGISTER_MOBILE: "register-mobile",
   RESET_PASSWORD_MOBILE: "reset-password-mobile",
-  DELETE_USER_PROFILE: "delete-user-profils",
+  DELETE_USER_PROFILE: "delete-user-profile",
 };
 
 export const PRODUCT_MODULE_ROUTES = {
