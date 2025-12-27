@@ -1,6 +1,6 @@
 {
   "name": "@yaqeenconnect/shared-lib",
-  "version": "1.0.34",
+  "version": "1.0.32",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
